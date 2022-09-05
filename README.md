@@ -1,7 +1,6 @@
 # Pytest-POM-Boiler-Plate
 
-Clone the Repo
-Go to terminal and run:
+Clone the Repo, open terminal in project root directory and run:
 ```
   pip install -r requirements.txt
 ```
